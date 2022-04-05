@@ -1,0 +1,1335 @@
+17betaHSD
+ABHD10  
+ABHD11  
+ABRAXAS2  
+ACADL  
+ACADS  
+ACCS  
+ACD  
+ACER3  
+ACOT13  
+ACY3  
+ADAMTSL2  
+ADAT2  
+ADGRD1  
+ADGRV1  
+ADIPOQ  
+ADPRS  
+AGAP6  
+AGAP9  
+AGBL1  
+AGGF1  
+AGPAT5  
+AGXT  
+AHR  
+AHSP  
+AIRN  
+AKAP14  
+AKT1  
+Alleles
+ALPK3  
+Amylo-1,6-glucosidase deficiency
+ANAPC10  
+ANAPC13  
+Animal genome
+Animal structural  
+ANKRD22  
+ANKRD30A  
+ANKRD30B  
+ANKRD35  
+ANKRD36  
+ANKRD36BP1  
+ANKRD37  
+ANO3  
+Antigen  
+ANTKMT  
+ANXA8L1  
+AP1B1P1  
+AP1B1P2  
+APC  
+Apolipoprotein  
+Apoptosis Regulation  
+AR  
+ARFGEF3  
+ARHGAP11A  
+ARHGAP28  
+ARHGEF5  
+ARL2BPP2  
+ARMC6  
+ARMCX6  
+ART5  
+ARV1  
+AS3MT  
+ASCC3  
+ASMTL-AS1  
+ASTL  
+ATM  
+ATP13A1  
+ATP13A2  
+ATP13A4  
+ATP13A5  
+ATP5MG  
+ATP5MK  
+ATP6V0CP1  
+ATP6V1D  
+ATP8B2  
+ATP8B3  
+ATP8B4  
+ATXN7L2  
+AVPI1  
+AZIN1  
+B3GALNT1  
+B3GALNT2  
+B3GNT3  
+Bacterial structural  
+BAIAP2L1  
+BAIAP2L2  
+BAT Locus
+BBLN  
+BBX  
+BCORL1  
+BCORP1  
+BEX2  
+BICD2  
+BLOC1S3  
+BLOC1S4  
+BLOC1S5  
+BOLL  
+BORCS5  
+BRCA1  
+BRCA2  
+BRINP2  
+BRWD3  
+BVES  
+C10orf62  
+C16orf54  
+C18orf54  
+C1QTNF2  
+C1QTNF3  
+C1QTNF4  
+C1QTNF5  
+C1QTNF6  
+C1QTNF7  
+C22orf15  
+C3orf22  
+C4orf17  
+C9orf152  
+C9orf92  
+CA13  
+CALHM2  
+CALHM3  
+CALML6  
+CAMKV  
+CAMSAP1  
+Cancer Promoting  s
+CANT1  
+CAPN5  
+CAVIN4  
+CBLIF  
+CBY1  
+CCAR2  
+CCBE1  
+CCDC14  
+CCDC15  
+CCHCR1  
+CCL14  
+CCR4  
+CD248  
+CD274  
+CD276  
+CD300A  
+CD300C  
+CD302  
+CD320  
+CD40LG  
+CDADC1  
+CDC14C  
+CDC37L1  
+CDC42BPG  
+CDC42SE1  
+CDC42SE2  
+CDK19  
+CDKL4  
+CDKN2A  
+CDKNA2A
+CDY1B  
+CENPW  
+CEP131  
+CEP97  
+CEPT1  
+CERCAM  
+CERS1  
+CFAP43  
+CFAP70  
+CFAP91  
+CFAP97  
+Chaperone  
+CHCHD1  
+CHCHD6  
+CHD8  
+CHD9  
+CHMP1B  
+CHMP2A  
+CHMP4A  
+CHMP7  
+Cholinesterase genotype
+Chromosome Mapping
+Chromosomes, Human, Pair 1
+Chromosomes, Human, Pair 11
+Chromosomes, Human, Pair 14
+Chromosomes, Human, Pair 15
+Chromosomes, Human, Pair 17
+Chromosomes, Human, Pair 18
+Chromosomes, Human, Pair 21
+Chromosomes, Human, Pair 22
+Chromosomes, Human, Pair 3
+Chromosomes, Human, Pair 5
+Chromosomes, Human, Pair 6
+Chromosomes, Human, Pair 7
+Chromosomes, Human, Pair 8
+Chromosomes, Human, Pair 9
+CHURC1  
+CIAPIN1  
+CIB2  
+CIP2A  
+CKMT1B  
+CLCF1  
+CLEC11A  
+CLEC14A  
+CLEC2A  
+CLEC3B  
+CLSTN2  
+CMC1  
+CNDP1  
+CNGA4  
+CNIH2  
+CNIH3  
+CNOT9  
+CNRIP1  
+COLGALT2  
+Complement Component  
+COMT  
+COMTD1  
+CPVL  
+CRAMP1  
+CRTAC1  
+CRYBG1  
+CSF1R  
+CTAGE5  
+CTAGE6  
+CTLA4  
+CTXN1  
+CTXN2  
+CUEDC1  
+CUTC  
+CUZD1  
+CYB561D2  
+Cyclin-Dependent Kinase 4
+CYP  
+CYP3A4  
+Cytochrome P-450 CYP3A5
+Cytokine  
+Cytoplasmic Protein  
+D17S50
+D2S123
+DALRD3  
+DAND5  
+DBR1  
+DCAF10  
+DCAF6  
+DCAF8L1  
+DCBLD1  
+DCLK3  
+DCST1  
+DCUN1D1  
+DDX59  
+DEFT1P  
+DELE1  
+DEPDC1  
+DEPDC4  
+DEPTOR  
+DERA  
+DERL1  
+DET1  
+DHPS  
+DHX29  
+DHX35  
+DIP2C-AS1  
+DLD  
+DLK1  
+DMPK  
+DNA Repair  
+DNAJC12  
+DNALI1  
+DND1  
+DOCK9  
+DSC1  
+DSC3  
+DUSP26  
+DYDC1  
+DYDC2  
+DZIP1L  
+ECD  
+EEF1A2  
+EFHB  
+EFHC2  
+EFL1P1  
+EGOT  
+EIF2AK1  
+EIF2AK2  
+EIF2AK3  
+ELMOD2  
+ELMOD3  
+ELOA3BP  
+ELOF1  
+ELSPBP1  
+EN1  
+EN2  
+ENC1  
+ENKD1  
+ENPP1  
+ENPP4  
+ENTPD1  
+ENTPD2  
+ENTPD4  
+ENTPD6  
+Enzyme  
+Enzyme Inhibitor  
+EPC2  
+EPDR1  
+EPHA10  
+EPHX1  
+EPHX2  
+epidermal growth factor
+Epidermal Growth Factor Receptor
+ERBB2  
+ERDA1  
+ERLIN1  
+ERLIN2  
+ERPL1  
+ERVW-1  
+ESAT  
+ESB3  
+ESCO1  
+Estrogen Receptors
+ESYT1  
+ESYT2  
+ESYT3  
+ETFA  
+ETFB  
+ethanol-responsive  
+ETV2  
+ETV6  
+EWS-ETS
+F2R  
+F8  
+F8A3  
+FABP9  
+FADS6  
+FAH  
+FAM155B  
+FAM156A  
+FAM20A  
+FAM24A  
+FAM24B  
+FAM25BP  
+FAM3A  
+FAM43A  
+FANCA wt Allele
+FANCD2 wt Allele
+FARSA  
+FAS  
+Fas/Fas ligand  
+FBXL13  
+FBXL16  
+FBXO17  
+FBXO40  
+FBXO44  
+FBXW11  
+FBXW9  
+Fc-gamma receptor III  
+FCAR  
+FCER1A  
+FCER1G  
+FCER2  
+FCGR1A  
+FCGR1B  
+FCGR1CP  
+FCGR2A  
+FCGRT  
+FCN2  
+FCRLA  
+FDFT1  
+FDPS  
+FDXR  
+FER1L4  
+FEZ1/LZTS1
+FGA  
+FGB  
+FGG  
+FH  
+FIGN  
+FIGNL1  
+FKBP14  
+FKBP1A  
+FKBP1B  
+FKBP2  
+FKBP9  
+FLAD1  
+FLCN  
+FOXC1  
+FOXR1  
+FRA10A  
+FRA11B  
+FRA16A  
+FRA1E  
+FRA2E  
+FRA3B  
+FRMD4A  
+FRMPD2  
+FTMT  
+Fungal structural  
+Fusion  
+FXN  
+FYTTD1  
+GAB4  
+GABBR1  
+GABRA1  
+GABRQ  
+GABRR3  
+GADL1  
+GALK2  
+GALNT18  
+GAREM1  
+GAS2L3  
+GBGT1  
+GBP6  
+  Components
+  Mutant
+  Mutation
+ s, Archaeal
+ s, Bacterial
+ s, cdc
+ s, Chloroplast
+ s, Developmental
+ s, Dominant
+ s, Duplicate
+ s, Essential
+ s, Fungal
+ s, Helminth
+ s, Immediate-Early
+ s, Immunoglobulin
+ s, Insect
+ s, Lethal
+ s, Microbial
+ s, Mitochondrial
+ s, Modifier
+ s, Neoplasm
+ s, Overlapping
+ s, Plant
+ s, Protozoan
+ s, Recessive
+ s, Regulator
+ s, Reiterated
+ s, Reporter
+ s, sry
+ s, Suppressor
+ s, T-Cell Receptor
+ s, Viral
+ s, X-Linked
+ s, Y-Linked
+ tic Code
+ tic Materials
+Genome
+Genome, Bacterial
+Genome, Fungal
+Genome, Human
+Genome, Plant
+Genotype
+Genotypic expression
+GFER  
+GIP  
+GIPC1  
+GK2  
+GKAP1  
+GKN1  
+GLC1L  
+GLCCI1  
+GLIS1  
+GLOD4  
+GLT6D1  
+Glycogen Storage Disease Type III
+GMPPA  
+GOLT1A  
+GOLT1B  
+GPATCH2  
+GPATCH3  
+GPHB5  
+GPKOW  
+GPR173  
+GPR174  
+GPRASP2  
+GRAP2  
+GREB1L  
+GREM1  
+Growth Factor  
+GSDMA  
+GSDMD  
+GSN  
+GST  
+GUCD1  
+GYPA  
+H2AB3  
+H2AC10P  
+H2AC11  
+H2AC12  
+H2AC13  
+H2AC14  
+H2AC15  
+H2AC16  
+H2AC17  
+H2AC20  
+H2AC4  
+H2AC5P  
+H2AC6  
+H2AC7  
+H2AC8  
+H2BC10  
+H2BC14  
+H2BC15  
+H2BC16P  
+H2BC17  
+H2BC3  
+H2BC4  
+H2BC5  
+H2BC6  
+H2BC7  
+H2BC8  
+H2BC9  
+HADHA  
+HAUS3  
+HBEGF  
+HCAR2  
+HCCS  
+HCG17  
+HCG21  
+HCG22  
+HDGFL1  
+HDHD2  
+HDHD3  
+HECTD2  
+HECW1  
+HECW2  
+HEG1  
+HEMK1  
+HEPHL1  
+HES4  
+Heterochromatic  s
+HETEROTAXY, VISCERAL, 2, AUTOSOMAL
+HHAT  
+HHEX  
+histocompatibility  
+HKDC1  
+HLA-P  
+HMGN2P16  
+HNRNPLL  
+HOGA1  
+HOMEZ  
+HORMAD1  
+HORMAD2  
+HOX11 protein
+HPYR1  
+HS3ST6  
+HSD17B10  
+HTL  
+HTR1B  
+HTRA4  
+Human  
+Human structural  
+HUWE1  
+HVCN1  
+IARS1  
+IFIH1  
+IFNG  
+IGHEP1  
+IGHEP2  
+IGKC  
+IGLJCOR18  
+IGSF10  
+IL17D  
+Immune response  
+Immune suppressor  
+Immunoglobulin Family  
+Immunoprotein  
+Imprinting  
+INE1  
+INE2  
+INGX  
+INS  
+Insulin-Like Growth Factor Binding Protein 3
+Insulin-Like-Growth Factor I Receptor
+Introns
+INTS6L  
+IQCA1  
+IQCD  
+IQCF1  
+IQCF3  
+IQCG  
+IQSEC3  
+IRGM  
+ITGA9  
+ITPK1  
+IZUMO3  
+JAGN1  
+JAML  
+JCHAIN  
+KAAG1  
+KCNQ1DN  
+KIAA0040  
+KIAA0319  
+KIAA0513  
+KIAA1328  
+KIAA1586  
+KIFC3  
+KIT  
+KLHL42  
+KMT2A  
+KMT5B  
+KMT5C  
+KNL1  
+KNSTRN  
+KY  
+KYAT3  
+L3MBTL4  
+LANCL3  
+LCE1B  
+LCE2D  
+LCE3A  
+LCE3E  
+LCE5A  
+LCLAT1  
+LCMT1  
+LCMT2  
+LDHAL6B  
+LDLR  
+LEMD3  
+Ligand Binding Protein  
+LIME1  
+LIMS4  
+LINC02913  
+LINGO4  
+LIPJ  
+LIPK  
+LIPM  
+LIX1L  
+LMO2  
+LNPK  
+LOH12CR2  
+LRCH2  
+LRRC10  
+LRRC18  
+LRRC20  
+LRRC30  
+LRRC34  
+LRRIQ1  
+LRRTM1  
+LRRTM4  
+LUC7L3  
+LYMPHOCYTE CYTOSOL POLYPEPTIDE, 20-KD  
+LYPD1  
+LYPD2  
+LYZ  
+LYZL2  
+MAGOH2P  
+Major Histocompatibility Complex
+Major histocompatibility complex  
+MAL  
+MALL  
+MALRD1  
+MANSC1  
+MAP Kinase  
+MAP3K15  
+MARCHF2  
+MARCHF6  
+MARCHF7  
+MARCKSL1  
+MARK2  
+MARS2  
+MARVELD3  
+MASTL  
+MBL2  
+MBOAT1  
+MBOAT2  
+MBTD1  
+MCM9  
+MCMBP  
+MCRIP2  
+MDGA2  
+MDN1  
+MED20  
+melastatin  
+Membrane Protein  
+METRNL  
+METTL26  
+MEX3B  
+MEX3C  
+MFAP3L  
+MIB1  
+MIB2  
+MIC12  
+MIC7  
+MICAL3  
+MicroRNA  
+MICU3  
+MID1IP1  
+MINDY1  
+MINDY2  
+Minor Histocompatibility Loci
+Minor Lymphocyte Stimulatory Loci
+MIOS  
+MIR181A2  
+MIR99B  
+MIS12  
+MLH1  
+MMD  
+MMD2  
+MMP  
+MMS22L  
+MON1B  
+MPC1  
+MPDU1  
+MPZL2  
+MRFAP1  
+MRFAP1L1  
+MRTO4  
+MS4A15  
+MSBP1  
+MSH1
+MSH2  
+MSH3  
+MSH6  
+MSL1  
+MSMO1  
+MSRB1  
+MT-7SDNA  
+MT-ATP8  
+MT-ATT  
+MT-HPR  
+MT-HSP1  
+MT-LSP  
+MT-OHR  
+MT-OLR  
+MT-RNR3  
+MTCH1  
+MTG2  
+MTHFR  
+MTRF1L  
+Multidrug Resistance  
+Multidrug Resistance-Associated Proteins
+Multi  Family
+MUSTN1  
+MYADML  
+MYO15B  
+MYORG  
+MYRIP  
+NAA10  
+NAA11  
+NACA2  
+NAE1  
+NAMPTP1  
+NANOGP2  
+NAT  
+NBEAL1  
+NBEAL2  
+NCEH1  
+NDOR1  
+NDUFA4P2  
+NEIL3  
+Neoplastic structural  
+NEPRO  
+Neuropeptide  
+NEUTROPHIL-SPECIFIC ANTIGEN: ND1
+NEUTROPHIL-SPECIFIC ANTIGEN: NE1
+NF2  
+NFKBIZ  
+NGEF  
+NKPD1  
+NKRF  
+NKX1-1  
+NLRP6  
+NOC2L  
+NOL9  
+NOLC1  
+NOMO1  
+NOMO2  
+NOMO3  
+Non structural  
+Non-Human  
+Nonhuman animal  
+NOS3  
+NOTCH2NLA  
+NOTO  
+NPEPL1  
+NPRL3  
+NQO  
+NRBP2  
+NRDC  
+NRG3-AS1  
+NRK  
+NRROS  
+NSMCE1  
+NSMCE4A  
+NSUN2  
+NSUN3  
+NSUN4  
+NSUN5  
+NSUN6  
+NTNG2  
+NUBPL  
+Nucleolus Organizer Region
+Nucleotide repeats
+NUDCD1  
+NUDCD3  
+NUDT16  
+NUDT16L1  
+NUDT17  
+NUTM2F  
+NXNL1  
+NXPE1  
+NXPE3  
+NYNRIN  
+OAT  
+OCIAD2  
+OIP5  
+OLIG3  
+Onco s
+Operator  
+Operon
+Operon  
+OR5H14  
+OR5H15  
+OR6C65  
+OR6C70  
+OR6C74  
+OR6C75  
+OTUB1  
+OTUB2  
+OXGR1  
+P2RY13  
+PABPC4L  
+PABX  
+PABY  
+PAGE1  
+PAGR1  
+PAPLN  
+PAQR4  
+parkin  /protein
+PARP14  
+PARP4  
+PARP6  
+PASD1  
+PAXBP1  
+PCCA  
+PCDH17  
+PCDH20  
+PCGF3  
+PCSK9  
+PDLIM5  
+PDP1  
+PDZD11  
+PEAK3  
+Peptide Hormone  
+PFN4  
+PGR  
+PHACTR1  
+PHACTR2  
+PHACTR3  
+PHACTR4  
+PHF20  
+PHF20L1  
+PHF21B  
+PHLDB3  
+PHLPP1  
+PHLPP2  
+PI-3 kinase  
+PIEZO1  
+PIEZO2  
+PIK3R5  
+PLA2G4E  
+PLAC8L1  
+Plant structural  
+PLEKHA2  
+PLEKHA3  
+PLEKHA4  
+PLEKHA5  
+PLEKHA8  
+PLEKHD1  
+PLEKHG2  
+PLEKHG4  
+PLLP  
+PLOD1  
+PLSCR5  
+PMS1  
+PMS2  
+PNCK  
+PNMA1  
+PNMA2  
+POC1A  
+POC1B  
+POLA2  
+POLR3K  
+POLRMT  
+poly 
+POMP  
+POP5  
+PPBPP2  
+PPM1H  
+PRAF2  
+PRAP1  
+PRELID3A  
+PREX2  
+Protein coding  
+Protein Complex Subunit  
+Proto-Onco s
+PROX1  
+PRPF38B  
+PRR4  
+PRRC2C  
+PRRG3  
+PRSS30P  
+PRUNE1  
+PSD2  
+Pseudo s
+PTAR1  
+PTCH  
+PTCHD1  
+PTGER1  
+PTPMT1  
+PTRH2  
+PXT1  
+PYCARD  
+PYDC1  
+PYHIN1  
+QDPR  
+QRSL1  
+Quantitative Trait Loci
+RAB25  
+RAB3IL1  
+RAB3IP  
+RABGAP1L  
+RAG1  
+RALGPS1  
+RALGPS2  
+RANBP10  
+RAPH1  
+RAPSN  
+ras Onco 
+RASEF  
+RB1  
+RBM23  
+RBM24  
+RBM25  
+RBM27  
+RBMX2  
+RBMY1D  
+RBMY1E  
+RBMY1F  
+RBP7  
+RCHY1  
+RCN1  
+RCOR2  
+Red cell  
+REEP5  
+Regulatory Sequences, Nucleic Acid
+Replication Initiation  
+resistance  s
+ret/PTC
+RGL3  
+RGS9BP  
+RHOT1  
+RHOT2  
+RIBC1  
+RIBC2  
+RIC1  
+RIF1  
+RMDN1  
+RMND1  
+RNASE9  
+RND3  
+RNF149  
+RNF167  
+RNF180  
+RNF183  
+RNF217  
+RNF7  
+RPF2  
+RPGRIP1L  
+RPL14P1  
+RPP38-DT  
+RPRM  
+RPS4X  
+RPS4Y1  
+RPUSD1  
+RPUSD2  
+RPUSD3  
+RPUSD4  
+RSBN1  
+RSBN1L  
+RSRC1  
+RTEL1  
+RTL9  
+RUBCN  
+RUNX1T1  
+RWDD1  
+RWDD2A  
+S1PR5  
+SAC3D1  
+SAGE1  
+SAMD1  
+SAMD10  
+SAMD5  
+SATB2  
+SBK1  
+SCAI  
+SCRIB  
+SCYL3  
+SDHAF3  
+SEA  
+SEC23B  
+SEH1L  
+SEL1L  
+SEMA4A  
+SERHL2  
+SERPINA13P  
+Sex-linked  
+SEZ6L2  
+SFI1  
+SFTPA2  
+SGIP1  
+SH2B3  
+SH2D4A  
+SH2D4B  
+SH3RF2  
+SH3TC2  
+SHISA2  
+SHKBP1  
+SHLD2P1  
+SHPRH  
+SIDT2  
+Signaling Pathway  
+SIK2  
+SIK3  
+SIT1  
+SKA1  
+SKA2P1  
+SKP1P1  
+SLC12A3  
+SLC16A13  
+SLC25A30  
+SLC25A31  
+SLC41A3  
+SLC43A2  
+SLC6A17  
+SLC8B1  
+SLC9C1  
+SLF1  
+SLK  
+SMARCB1 protein, human
+SMCHD1  
+SMOC1  
+SMOC2  
+SMPDL3B  
+SMR3A  
+SMU1  
+SMYD5  
+SNED1  
+SNRPB  
+SNRPB2  
+SNX33  
+sonic hedgehog  /protein
+SORCS2  
+SP5  
+SPACA5  
+SPAM1  
+SPANXA2  
+SPANXB1  
+SPANXB2  
+SPANXD  
+SPARC  
+SPATA33  
+SPATC1  
+SPC24  
+SPC25  
+SPCS1  
+SPCS3  
+SPEN  
+SPG21  
+Spinocerebellar Ataxia 10
+SPIRE1  
+SPOCD1  
+SPRED3  
+SPRYD7  
+SREBF2  
+SRGN  
+SRPX2  
+SRSF11  
+SSH2  
+ST3GAL1  
+ST6GALNAC4  
+ST6GALNAC5  
+ST8SIA2  
+STAC2  
+STAC3  
+STAM2  
+STAT family  
+STIL  
+STK32C  
+STK35  
+STOX2  
+STRIP2  
+Structural  
+SUCNR1  
+SULT  
+SUN3  
+SUSD4  
+SVEP1  
+SYAP1  
+SYCP2L  
+Syntenic  
+Synthetic  s
+SYTL1  
+SYVN1  
+TAAR2  
+TAAR6  
+TAAR8  
+TAAR9  
+TAFA5  
+TAFAZZIN  
+TAGAP  
+TAGLN3  
+TAOK3  
+TARBP2P1  
+TARDBP  
+TATDN1  
+TATDN2  
+TAX1BP3  
+TBC1D10B  
+TBC1D10C  
+TBC1D12  
+TBC1D19  
+TBC1D20  
+TBC1D21  
+TBC1D22A  
+TBC1D22B  
+TBC1D32  
+TBCC  
+TBCE  
+TBR1  
+TC2N  
+TCEAL5  
+TCEAL8  
+TCHHL1  
+TCTN3  
+TDGF1  
+TDRD1  
+TEKT3  
+Telomere Maintenance  
+TENM2  
+TENT5A  
+TENT5B  
+TENT5C  
+TESC  
+TEX101  
+TEX11  
+TEX264  
+TFAMP1  
+TFAMP2  
+TFDP3  
+TGCT1  
+TGDS  
+THUMPD1  
+THUMPD2  
+THUMPD3  
+TIMD4  
+TIMELESS  
+TIMM23B  
+TLE3  
+TLE6  
+TLR5  
+TM4SF19  
+TM4SF20  
+TM6SF2  
+TMED3  
+TMED5  
+TMED6  
+TMED8  
+TMED9  
+TMEFF2  
+TMEM14A  
+TMEM14C  
+TMEM14DP  
+TMEM184C  
+TMEM201  
+TMEM204  
+TMEM26  
+TMEM266  
+TMEM30B  
+TMEM30CP  
+TMEM33  
+TMEM37  
+TMEM39B  
+TMEM41A  
+TMEM44  
+TMEM45A  
+TMPRSS11A  
+TMPRSS11B  
+TMPRSS11D  
+TMPRSS11E  
+TMPRSS12  
+TMSB15A  
+TNRC6A  
+TOP1MT  
+TOR1A  
+TP53  
+TP53RK  
+TPIP-ALPHA
+TPSG1  
+TPTE2  
+TRAC  
+Transcription Regulation  
+Trans s
+Translation Process  
+transposon/insertion element
+TRARG1  
+TREML4  
+TRIM54  
+TRIM60  
+TRIM61  
+TRNT1  
+TRPT1  
+TSC22D3  
+TSGA10IP  
+TSHR  
+TSPAN13  
+TSPAN14  
+TSPAN15  
+TSPAN16  
+TSPAN19  
+TSPAN4  
+TSPAN9  
+TSR3  
+TTC21B  
+TTC39C  
+TTC7A  
+TTC7B  
+TTTY17B  
+TTTY17C  
+TTTY4C  
+TTTY6B  
+TUBAL3  
+TUBB1  
+TUBB3  
+TUBB4A  
+TUBD1  
+Tumor Necrosis Factor-alpha
+Tumor Suppressor  s
+TUSC1  
+TVP23B  
+TXNDC11  
+TXNDC15  
+TXNDC8  
+TXNDC9  
+TXNL4B  
+TYMS  
+TYSND1  
+UBAP2L  
+UBE2T  
+UBE3C  
+UBL7  
+UBOX5  
+UBQLN4  
+UBTD1  
+UBXN6  
+UCKL1  
+UDPGT  
+UFL1  
+UGT1A1  
+UGT2A1  
+UGT8  
+UHMK1  
+UNC50  
+UQCR11  
+UQCRFS1  
+UROC1  
+VAX1  
+VCPIP1  
+VCX2  
+VCX3B  
+VCY1B  
+VEPH1  
+VGLL4  
+VHL  
+VHLL  
+VILL  
+Viral Genome
+Viral structural  
+VIS1  
+VIT  
+VPS13B  
+VSIG1  
+VSIG2  
+VTCN1  
+VTRNA1-1  
+VTRNA1-2  
+VTRNA1-3  
+WASHC2A  
+WDR37  
+WDR41  
+WDR43  
+WDR45  
+WDR45B  
+WDR53  
+WDR5B  
+WNK2  
+X-Ray Cross Complementing Group
+XKRY2  
+YEAST FACTOR
+YEATS2  
+YLPM1  
+YTHDC2  
+YTHDF3  
+YY1AP1  
+ZADH2  
+ZBED3  
+ZBTB10  
+ZBTB11  
+ZBTB16  
+ZBTB26  
+ZBTB7A  
+ZBTB7B  
+ZC3HC1  
+ZC4H2  
+ZCCHC12  
+ZCCHC3  
+ZCWPW2  
+ZFAND1  
+ZFYVE26  
+ZGPAT  
+ZKSCAN1  
+ZMAT1  
+ZNF125  
+ZNF280A  
+ZNF280C  
+ZNF280D  
+ZNF319  
+ZNF324  
+ZNF326  
+ZNF329  
+ZNF532  
+ZNF585B  
+ZNF830  
+ZNHIT1  
+ZNHIT2  
+ZSWIM1  
+ZSWIM2  
+ZSWIM3  
