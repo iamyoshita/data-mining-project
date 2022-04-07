@@ -1,5 +1,9 @@
 # data-mining-project
 
+Had to compress the txt file from pubmed as it was >25mb.
+
+Converted the 10000 abstracts from txt to csv file "woundabstracts.csv". So the first cell in jupyter can be commented. (don't comment the libraries)
+
 
 Tried using gensim andchecked similary of "wound" with different proteins,genes.
 
