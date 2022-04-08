@@ -32,8 +32,8 @@ ALPK3
 "Amylo-1,6-glucosidase deficiency"
 ANAPC10  
 ANAPC13  
-Animal genome
-Animal structural  
+ genome
+   
 ANKRD22  
 ANKRD30A  
 ANKRD30B  
@@ -82,7 +82,7 @@ AZIN1
 B3GALNT1  
 B3GALNT2  
 B3GNT3  
-Bacterial structural  
+   
 BAIAP2L1  
 BAIAP2L2  
 BAT Locus
@@ -175,20 +175,20 @@ CHMP4A
 CHMP7  
 Cholinesterase genotype
 Chromosome Mapping
-"Chromosomes, Human, Pair 1"
-"Chromosomes, Human, Pair 11"
-"Chromosomes, Human, Pair 14"
-"Chromosomes, Human, Pair 15"
-"Chromosomes, Human, Pair 17"
-"Chromosomes, Human, Pair 18"
-"Chromosomes, Human, Pair 21"
-"Chromosomes, Human, Pair 22"
-"Chromosomes, Human, Pair 3"
-"Chromosomes, Human, Pair 5"
-"Chromosomes, Human, Pair 6"
-"Chromosomes, Human, Pair 7"
-"Chromosomes, Human, Pair 8"
-"Chromosomes, Human, Pair 9"
+"Chromosomes, , Pair 1"
+"Chromosomes, , Pair 11"
+"Chromosomes, , Pair 14"
+"Chromosomes, , Pair 15"
+"Chromosomes, , Pair 17"
+"Chromosomes, , Pair 18"
+"Chromosomes, , Pair 21"
+"Chromosomes, , Pair 22"
+"Chromosomes, , Pair 3"
+"Chromosomes, , Pair 5"
+"Chromosomes, , Pair 6"
+"Chromosomes, , Pair 7"
+"Chromosomes, , Pair 8"
+"Chromosomes, , Pair 9"
 CHURC1  
 CIAPIN1  
 CIB2  
@@ -389,7 +389,7 @@ FRA3B
 FRMD4A  
 FRMPD2  
 FTMT  
-Fungal structural  
+   
 Fusion  
 FXN  
 FYTTD1  
@@ -405,75 +405,13 @@ GAREM1
 GAS2L3  
 GBGT1  
 GBP6  
-  Components
-  Mutant
-  Mutation
-" s, Archaeal"
-" s, Bacterial"
-" s, cdc"
-" s, Chloroplast"
-" s, Developmental"
-" s, Dominant"
-" s, Duplicate"
-" s, Essential"
-" s, Fungal"
-" s, Helminth"
-" s, Immediate-Early"
-" s, Immunoglobulin"
-" s, Insect"
-" s, Lethal"
-" s, Microbial"
-" s, Mitochondrial"
-" s, Modifier"
-" s, Neoplasm"
-" s, Overlapping"
-" s, Plant"
-" s, Protozoan"
-" s, Recessive"
-" s, Regulator"
-" s, Reiterated"
-" s, Reporter"
-" s, sry"
-" s, Suppressor"
-" s, T-Cell Receptor"
-" s, Viral"
-" s, X-Linked"
-" s, Y-Linked"
- tic Code
- tic Materials
-Genome
-"Genome, Bacterial"
-"Genome, Fungal"
-"Genome, Human"
-"Genome, Plant"
-Genotype
-Genotypic expression
-GFER  
-GIP  
-GIPC1  
-GK2  
 GKAP1  
-GKN1  
-GLC1L  
-GLCCI1  
-GLIS1  
-GLOD4  
-GLT6D1  
 Glycogen Storage Disease Type III
-GMPPA  
 GOLT1A  
-GOLT1B  
-GPATCH2  
-GPATCH3  
-GPHB5  
 GPKOW  
-GPR173  
 GPR174  
-GPRASP2  
-GRAP2  
 GREB1L  
 GREM1  
-Growth Factor  
 GSDMA  
 GSDMD  
 GSN  
@@ -485,7 +423,6 @@ H2AC10P
 H2AC11  
 H2AC12  
 H2AC13  
-H2AC14  
 H2AC15  
 H2AC16  
 H2AC17  
@@ -493,7 +430,6 @@ H2AC20
 H2AC4  
 H2AC5P  
 H2AC6  
-H2AC7  
 H2AC8  
 H2BC10  
 H2BC14  
@@ -513,7 +449,6 @@ HBEGF
 HCAR2  
 HCCS  
 HCG17  
-HCG21  
 HCG22  
 HDGFL1  
 HDHD2  
@@ -545,8 +480,8 @@ HSD17B10
 HTL  
 HTR1B  
 HTRA4  
-Human  
-Human structural  
+  
+   
 HUWE1  
 HVCN1  
 IARS1  
@@ -558,17 +493,12 @@ IGKC
 IGLJCOR18  
 IGSF10  
 IL17D  
-Immune response  
-Immune suppressor  
 Immunoglobulin Family  
 Immunoprotein  
-Imprinting  
 INE1  
 INE2  
 INGX  
 INS  
-Insulin-Like Growth Factor Binding Protein 3
-Insulin-Like-Growth Factor I Receptor
 Introns
 INTS6L  
 IQCA1  
@@ -583,17 +513,12 @@ ITPK1
 IZUMO3  
 JAGN1  
 JAML  
-JCHAIN  
-KAAG1  
 KCNQ1DN  
 KIAA0040  
-KIAA0319  
 KIAA0513  
 KIAA1328  
 KIAA1586  
 KIFC3  
-KIT  
-KLHL42  
 KMT2A  
 KMT5B  
 KMT5C  
@@ -643,7 +568,6 @@ LYZ
 LYZL2  
 MAGOH2P  
 Major Histocompatibility Complex
-Major histocompatibility complex  
 MAL  
 MALL  
 MALRD1  
@@ -746,7 +670,7 @@ NCEH1
 NDOR1  
 NDUFA4P2  
 NEIL3  
-Neoplastic structural  
+Neoplastic   
 NEPRO  
 Neuropeptide  
 NEUTROPHIL-SPECIFIC ANTIGEN: ND1
@@ -764,9 +688,9 @@ NOLC1
 NOMO1  
 NOMO2  
 NOMO3  
-Non structural  
-Non-Human  
-Nonhuman animal  
+   
+-  
+   
 NOS3  
 NOTCH2NLA  
 NOTO  
@@ -858,7 +782,7 @@ PIEZO2
 PIK3R5  
 PLA2G4E  
 PLAC8L1  
-Plant structural  
+   
 PLEKHA2  
 PLEKHA3  
 PLEKHA4  
@@ -1035,7 +959,7 @@ SLC8B1
 SLC9C1  
 SLF1  
 SLK  
-"SMARCB1 protein, human"
+"SMARCB1 protein, "
 SMCHD1  
 SMOC1  
 SMOC2  
@@ -1088,7 +1012,7 @@ STK32C
 STK35  
 STOX2  
 STRIP2  
-Structural  
+  
 SUCNR1  
 SULT  
 SUN3  
@@ -1272,8 +1196,8 @@ VGLL4
 VHL  
 VHLL  
 VILL  
-Viral Genome
-Viral structural  
+ Genome
+   
 VIS1  
 VIT  
 VPS13B  
