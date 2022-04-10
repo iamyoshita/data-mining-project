@@ -1,5 +1,7 @@
 # data-mining-project
 
+SubmitPMIDList.py is the code for annotating based on pmid.
+
 Had to compress the txt file from pubmed as it was >25mb.
 
 Converted the 10000 abstracts from txt to csv file "woundabstracts.csv". So the first cell in jupyter can be commented. (don't comment the libraries)
