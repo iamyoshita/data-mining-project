@@ -15,7 +15,9 @@ annotatedabstracts.txt: annotated the 10K abstracts
 
 The next cells in the jupyter file:
 
-Converted the 10000 abstracts from txt to csv file "woundabstracts.csv". So the first cell in jupyter can be commented. (don't comment the libraries)
+wait for a minute for the jupyter output to load on github
+
+I Converted the 10000 abstracts from txt to csv file "woundabstracts.csv". So the first cell in jupyter can be commented. (don't comment the libraries)
 
 must execute "conda install -c conda-forge spacy-model-en_core_web_sm" to install spacy package.
 
