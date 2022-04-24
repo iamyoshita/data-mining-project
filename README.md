@@ -1,8 +1,9 @@
 # data-mining-project
 
-SubmitPMIDList.py is the code for annotating based on pmid. It takes pmid files as input. each pmid file has 100 pmids only because the API accepts 100 per request. IT gives annotatedabstracts.txt as output.
+First, I downloaded the abstracts as .txt file from PUBMED (for github, Had to compress the txt file from pubmed as it was >25mb.). then I extracted the pmid for each abstract and stored them in pmid files. The pmid extraction code is in cell 1 of the jupyter file (try1.ipynb) in the folder try1-basic codes.
 
-First, I downloaded the abstracts as .txt file from PUBMED (for github, Had to compress the txt file from pubmed as it was >25mb.). then I extracted the pmid for each abstract and stored them in pmid files. The pmid extraction code is in cell 1 of the jupyter file (try1.ipynb).
+Annotate_using_PubTator.py is the code for annotating based on pmid. It takes pmid files as input. each pmid file has 100 pmids only because the API accepts 100 per request. It gives annotatedabstracts.txt as output.
+
 
 Once the pmid files are generated (pmids.zip on github), run SubmitPMIDList.py to get the annotated text.
 
