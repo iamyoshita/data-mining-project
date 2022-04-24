@@ -23,7 +23,7 @@ must execute "conda install -c conda-forge spacy-model-en_core_web_sm" to instal
 
 Tried using gensim and checked similary of "wound" with different proteins,genes.
 
-## Then I checked the similarity between those proteins and genes.
+Then I checked the similarity between those proteins and genes.
 
 try1 is the jupyter file. The red marked text in the output are not errors but just time log. 
 
